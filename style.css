@@ -62,13 +62,26 @@ h6 {
   overflow-wrap: break-word;
 }
 
-.wrapper {
-  padding: 1.2rem;
+.main {
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  width: 1001px;
 }
+
+.wrapper {
+  max-width: 1110px;
+  padding: 1.2rem;
+  
+}  
 
 .info,
 .ratings {
   text-align: center;
+}
+
+.info{
+  max-width: 350px;
 }
 
 .info {
@@ -148,4 +161,21 @@ h6 {
 
 .testimonial-wrapper:last-child {
     margin-bottom: 6rem;
+}
+
+
+/* media queryt:
+        tablet
+        wide
+
+    muista heti backgound imagen waihdot
+
+
+*/
+
+
+/* @media (min-width: 768px) {
+  .main{
+    display: flex
   }
+}  */
