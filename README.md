@@ -5,7 +5,7 @@
 
 ### Screenshot
 
-![solution](https://)
+![solution](https://github.com/patrick-selin/social-proof-section/blob/main/images/Social%20proof%20section%20solution.png)
 
 
 ### Links
